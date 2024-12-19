@@ -1,3 +1,7 @@
+-=(Cosmic_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # [Arcade: Universal Cosmic](https://www.arcade-museum.com/game_detail.php?game_id=7398) games (Z80-based) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 By [Mike Coates](https://github.com/macrofpga)  
